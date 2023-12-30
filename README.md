@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard
+# HR-Analytics-Dashboard Using PowerBi
 Developed an interactive Super Store sales dashboard in Power BI, offering comprehensive insights into sales performance and trends through visually appealing visualizations and dynamic filters. 
 
 The Key learnings from this Project include:- 
